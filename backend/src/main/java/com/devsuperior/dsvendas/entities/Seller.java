@@ -51,6 +51,4 @@ public class Seller {
 		return sales;
 	}
 	
-	
-	
 }
